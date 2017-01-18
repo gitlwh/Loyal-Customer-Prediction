@@ -16,6 +16,6 @@ These models were then blended again using Gradient Boosting, trained on a holdo
 
 This submission requires an installation of xgboost, vowpal wabbit, pandas, numpy and scikit-learn, and has only been tested on MacOS. Note that since this is a large dataset, so I didn't upload dataset. You can download all data and put them in data folder.
 
-* download the competion data (*user_info.csv*, *user_log.csv*, *train_label.csv*, *test_label.csv*) and put it in the folder "data"
-* run *gen_features.py* to create the features files *train.csv* and *test.csv*
-* run *gen_result.py* to create the final submission
+* Download the competion data (*user_info.csv*, *user_log.csv*, *train_label.csv*, *test_label.csv*) and put it in the folder "data"
+* Run *gen_features.py* to create the features files *train.csv* and *test.csv*
+* Run *gen_result.py* to create the final submission
