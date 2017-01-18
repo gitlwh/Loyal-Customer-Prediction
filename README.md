@@ -1,6 +1,6 @@
 # Loyal-Customer-Prediction
 
-This is code to generate my submission to the Kaggle competition [Loyal Customer Prediction](https://inclass.kaggle.com/c/loyal-customer-prediction) as a final project of Lehigh CSE447. This submission managed to give me a 2nd place in the competition (under the alias [♕ Wenqi ♔](https://www.kaggle.com/weihengli)), in top 5%.
+This is code to generate my submission to the Kaggle competition - [Loyal Customer Prediction](https://inclass.kaggle.com/c/loyal-customer-prediction) as a final project of Lehigh CSE447. This submission managed to give me a 2nd place in the competition (under the alias [♕ Wenqi ♔](https://www.kaggle.com/weihengli)), in top 5%.
 
 The challenge of this competition was to predict which shoppers that responded to a rebate coupon on a specific period, would become repeat buyers of that product. The given dataset was a nearly 1G dataset with one year history of transactions for each shopper.
 
